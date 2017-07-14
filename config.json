@@ -1,0 +1,9 @@
+{
+   "description": "___developmentLaptop___",
+   "interface": "wlp4s0",
+   "port": "telnet",
+   "ip": "50.56.24.179/32",
+   "protocol": "icmp",
+   "wfcWebhookUrl": "https://localhost/api/v1/webhooks/crossConnect",
+   "wfcAuthenticationUrl": "https://localhost/auth/v1/tokens"
+}

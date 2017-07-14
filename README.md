@@ -15,3 +15,6 @@ When a packet is detected a single webhook is triggered and the sensor is disarm
 
 Considerations:
 This code is dynamically linked and requires the QT libraries to be present on the target system. This constraint is imposed to comply with the QT license. 
+
+For more information:
+See the README.pdf file for more details.
